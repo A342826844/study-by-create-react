@@ -1,0 +1,25 @@
+{
+  "name": "study-by-create-react",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.16.1"
+  },
+  "dependencies": {
+    "@types/nodemon": "^1.19.2",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.0.4",
+    "vite": "^4.3.2"
+  }
+}
